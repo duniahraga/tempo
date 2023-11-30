@@ -1,0 +1,124 @@
+@media screen and (min-width:1400px) {
+    
+}
+@media screen and (max-width:1400px) {
+    .container{
+      width: 1140px;
+    }
+    
+}
+@media screen and (max-width:1200px) {
+    .container{
+        width: 960px;
+      }
+      
+    
+}
+@media screen and (max-width:992px) 
+{.container{
+    width: 720px;
+  }
+  
+
+    
+}
+
+@media screen and (max-width:768px) {
+    .container{
+        width:540px;
+      }
+      
+}
+@media screen and (max-width:576px) {
+    .container{
+        width: 100%;
+      }
+      
+}
+
+
+/* =========================card_services======================================= */
+
+
+
+@media screen and (width < 992px) {
+    .services .item {
+        width: 48%;
+      }
+
+    
+}
+
+
+@media screen and (width < 576px) {
+
+    .services .item {
+        width: 100%
+        
+      }
+    
+    
+}
+
+/* ========================================porotfolio========================================= */
+
+
+@media screen and (width < 992px) {
+  .cards .card {
+      width: 25%;
+    }
+
+  
+}
+
+
+@media screen and (width < 576px) {
+
+  .cards .card {
+      width: 100%
+      
+    }
+  
+  
+}
+
+/* =================================================forms========================================== */
+@media screen and (width < 992px) {
+  .contact_content {
+      width: 20%;
+    }
+
+  
+}
+
+
+@media screen and (width < 576px) {
+
+  .contact_content {
+      width: 100%
+      
+    }
+  
+  
+}
+
+@media screen and (width < 992px) {
+  form {
+      width: 80%;
+    }
+
+  
+}
+
+
+@media screen and (width < 576px) {
+
+  form {
+      width: 100%
+      
+    }
+  
+  
+}
+
+
